@@ -1,0 +1,12 @@
+Insert Papers read here with a brief summary or why its useful for our work.
+----------------------------------------------------------------------------
+
+https://link.springer.com/article/10.1007/s00134-020-05991-x
+Short paper that gives us some base factors to consider relating to mortality.
+These factors could be used to train a model for prognosis prediction of future victims
+
+https://arxiv.org/pdf/2003.12150.pdf
+The authors create a simple model that assumes a 100% connected population, giving a rather pessimistic estimate for infection.
+The core Susceptible, Infected, Recovered (SIR) model they use is well defined and can be re-applied to other data for our analysis.
+They add other factors and show how they incorporate them, so if we find other things we need to take into account, we can base it off this.
+
