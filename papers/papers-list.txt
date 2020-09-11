@@ -27,3 +27,5 @@ Geolocated Twitter social media data to describe the geographic spread of SARS-C
 https://academic.oup.com/jtm/article/27/5/taaa120/5875518
 Did a review of Twitter and Covid-19, this is a very brief article on the topic.  Not that special but does give some intresting statics and graphics of data use.  
 
+Artiﬁcial Intelligence (AI) and Big Data forCoronavirus (COVID-19) Pandemic:A Survey on the State-of-the-Arts
+https://www.researchgate.net/publication/340646512_Artificial_Intelligence_AI_and_Big_Data_for_Coronavirus_COVID-19_Pandemic_A_Survey_on_the_State-of-the-Arts
