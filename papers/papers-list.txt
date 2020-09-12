@@ -29,3 +29,6 @@ Did a review of Twitter and Covid-19, this is a very brief article on the topic.
 
 Artiﬁcial Intelligence (AI) and Big Data forCoronavirus (COVID-19) Pandemic:A Survey on the State-of-the-Arts
 https://www.researchgate.net/publication/340646512_Artificial_Intelligence_AI_and_Big_Data_for_Coronavirus_COVID-19_Pandemic_A_Survey_on_the_State-of-the-Arts
+
+Big Data Analytics in the Fight against Major Public Health Incidents (Including COVID-19): A Conceptual Framework
+https://www.mdpi.com/1660-4601/17/17/6161/htm
